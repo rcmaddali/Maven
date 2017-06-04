@@ -48,8 +48,15 @@ public class TestLoops {
 	@Test
 	public void test() {
 		//assert.assertTrue(true);
-		//fail("Not yet implemented");
+		fail("Not yet implemented");
 		System.out.println("test");
+		
+	}
+	@Test
+	public void test2() {
+		//assert.assertTrue(true);
+		//fail("Not yet implemented");
+		System.out.println("test2");
 		
 	}
 
